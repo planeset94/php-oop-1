@@ -15,7 +15,7 @@ class Movie
     public $price;
     public $discount;
 
-    function __construct(string $title, int $length, int $price, bool $discount)
+    function __construct(string $title, int $length, Float $price, bool $discount)
     {
         $this->title = $title;
         $this->length = $length;

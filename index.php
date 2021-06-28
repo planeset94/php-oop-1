@@ -57,7 +57,7 @@ $movie_db = [
 
     </div>
 
-    <br>
+    <hr>
 
     <?php endforeach ?>
 
